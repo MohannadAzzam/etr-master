@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649475486517",
+    "project_id": "exhibitiontoysriyadh",
+    "storage_bucket": "exhibitiontoysriyadh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649475486517:android:2db3d8e086d46201be127c",
+        "android_client_info": {
+          "package_name": "com.etr.etr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649475486517-gm7e9jbps3lmpanrdhuodig46o9qq6rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhAtgCe4Byb2Oy9ZmaSYU31VZ0nojM-aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649475486517-gm7e9jbps3lmpanrdhuodig46o9qq6rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

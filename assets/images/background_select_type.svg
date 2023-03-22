@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <clipPath id="clip-iPhone_12_Pro_Max_6">
+      <rect width="428" height="926"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_12_Pro_Max_6" data-name="iPhone 12 Pro Max – 6" clip-path="url(#clip-iPhone_12_Pro_Max_6)">
+    <rect width="428" height="926" fill="#6d2b70"/>
+    <path id="Group_278" data-name="Group 278" d="M0,0H428a0,0,0,0,1,0,0V299.262a20,20,0,0,1-20,20H20a20,20,0,0,1-20-20V0A0,0,0,0,1,0,0Z" transform="translate(0 600.738)" fill="#6d2b70"/>
+    <path id="Group_278-2" data-name="Group 278" d="M428,164.158S291.788,145.509,184.371,217.12,0,299.262,0,299.262a20,20,0,0,0,20,20H408a20,20,0,0,0,20-20Z" transform="translate(0 606.738)" fill="#622665"/>
+    <path id="Group_278-3" data-name="Group 278" d="M0,99.883s148.637-29.092,234.943,65.942S428,299.262,428,299.262v20.216L.01,319.3S0,310.308,0,299.262Z" transform="translate(0 606.738)" fill="#911d74"/>
+  </g>
+</svg>
